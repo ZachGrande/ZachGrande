@@ -5,7 +5,7 @@
 - 📚 Senior @ University of Washington, The Information School
 - 🌐 Studying Informatics: Human-Computer Interaction & Data Science
 - ☕ Skilled in Java & object-oriented programming
-- 🎹 Incorporated music into several coding projects at the iSchool
+- 🎹 Incorporated music into several projects at the iSchool
 - 👾 Interested in games!
 - 📫 Contact me: [linkedin.com/in/zach-grande/](https://www.linkedin.com/in/zach-grande/)
 
