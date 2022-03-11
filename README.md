@@ -14,7 +14,7 @@
 **Some projects I've worked on**
 - [Phenomenality,](https://phenomenality-bdf65.web.app/) currently in development
 - [Be Incredible](https://uw-info442-au21.github.io/group4-in4matix/)
-- [Be Incredible Architectural Analysis](https://zachgrande.github.io/info474-react-parcel-template/)
+- [Be Incredible Architectural Analysis](https://github.com/info443-wi22/project-1-ZachGrande)
 - [SongNotes](https://info-340-project-2-6e95f.firebaseapp.com/)
 - [Avocado Sales Dashboard](https://zachgrande.github.io/info474-react-parcel-template/)
 
