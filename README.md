@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**ZachGrande/ZachGrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
+- 😁 Pronouns: he/him
+- 📚 Senior @ University of Washington, The Information School
+- 🌐 Studying Informatics: Human-Computer Interaction & Data Science
+- ☕ Skilled in Java & object-oriented programming
+- 🎹 Incorporated music into several coding projects at the iSchool
+- 👾 Interested in games!
+- 📫 Contact me: [linkedin.com/in/zach-grande/](https://www.linkedin.com/in/zach-grande/)
 
-Here are some ideas to get you started:
+**Goal:** to work in an engineering or technical product role within a consumer-centric organization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Some projects I've worked on**
+- [Phenomenality,](https://phenomenality-bdf65.web.app/) currently in development
+- [Be Incredible](https://uw-info442-au21.github.io/group4-in4matix/)
+- [Be Incredible Architectural Analysis](https://zachgrande.github.io/info474-react-parcel-template/)
+- [SongNotes](https://info-340-project-2-6e95f.firebaseapp.com/)
+- [Avocado Sales Dashboard](https://zachgrande.github.io/info474-react-parcel-template/)
+
+**I'm familiar with**
+- Java
+- Javascript
+- Python
+- HTML/CSS
+- React
+- Figma
+- Miro
+- Tableau
+- Jira
+- R
+- Adobe Premiere
