@@ -2,12 +2,15 @@
 
 **About me**
 - 😁 Pronouns: he/him
-- 📚 Senior @ University of Washington, The Information School
-- 🌐 Studying Informatics: Human-Computer Interaction & Data Science
 - ☕ Skilled in Java & object-oriented programming
 - 🎹 Incorporated music into several projects at the iSchool
 - 👾 Interested in games!
 - 📫 Contact me: [linkedin.com/in/zach-grande/](https://www.linkedin.com/in/zach-grande/)
+
+**Education**
+- University of Washington, The Information School
+- Major: Informatics - Human-Computer Interaction & Data Science
+- Sep 2018 - Jun 2022
 
 **Goal:** to work in an engineering or technical product role within a consumer-centric organization.
 
