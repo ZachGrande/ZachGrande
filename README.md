@@ -27,6 +27,10 @@
 **Be Incredible Architectural Analysis**
 - [Codebase](https://github.com/info443-wi22/project-1-ZachGrande)
 
+**Python Projects**
+- [Image recognition](https://github.com/ZachGrande/image-recognition)
+  - Technologies used: Python, Pandas, Numpy, Tensorflow, Scikit-Learn
+
 **Phenomenality**
 - [Figma](https://www.figma.com/file/hnuDOYLXH1Q5aR26tqHZoI/Be-Incredible%2FPhenomenality?node-id=536%3A347)
 
