@@ -28,7 +28,7 @@
 - [Codebase](https://github.com/info443-wi22/project-1-ZachGrande)
 
 **Python Projects**
-- [Image recognition](https://github.com/ZachGrande/image-recognition)
+- [Image recognition](https://github.com/ZachGrande/image-recognition/blob/main/ps07.ipynb)
   - Technologies used: Python, Pandas, Numpy, Tensorflow, Scikit-Learn
 
 **Phenomenality**
