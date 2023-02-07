@@ -18,7 +18,7 @@
 
 **I am building a website for my band, Hockey Teeth**
 - [Hockey Teeth Official Site](https://www.hockeyteethband.com/home)
-  - React, Material UI
+  - React, AWS Amplify, Material UI
 
 **UW Capstone**
 - [Phenomenality UW Page](https://ischool.uw.edu/capstone/projects/2022/phenomenality-helping-gender-minorities-mitigate-imposter-phenomenon)
