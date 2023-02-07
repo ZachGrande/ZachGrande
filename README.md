@@ -16,6 +16,15 @@
 
 ### Some projects I've worked on
 
+**I am building a website for my band, Hockey Teeth**
+- [Hockey Teeth Official Site](https://www.hockeyteethband.com/home)
+  - React, Material UI
+
+**UW Capstone**
+- [Phenomenality UW Page](https://ischool.uw.edu/capstone/projects/2022/phenomenality-helping-gender-minorities-mitigate-imposter-phenomenon)
+- [Phenomenality Web App](https://phenomenality-bdf65.web.app/)
+  - React, Firebase, SurveyJS, CanvasJS
+
 **Avocado Sales Dashboard**
 - [Codebase](https://github.com/ZachGrande/info474-react-parcel-template)
 - [Demo site](https://zachgrande.github.io/info474-react-parcel-template/)
