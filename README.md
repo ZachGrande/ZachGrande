@@ -21,9 +21,10 @@
   - React, AWS Amplify, Material UI
 
 **UW Capstone**
-- [Phenomenality UW Page](https://ischool.uw.edu/capstone/projects/2022/phenomenality-helping-gender-minorities-mitigate-imposter-phenomenon)
 - [Phenomenality Web App](https://phenomenality-bdf65.web.app/)
   - React, Firebase, SurveyJS, CanvasJS
+- [Phenomenality UW Page](https://ischool.uw.edu/capstone/projects/2022/phenomenality-helping-gender-minorities-mitigate-imposter-phenomenon)
+- [Figma Wireframes](https://www.figma.com/file/hnuDOYLXH1Q5aR26tqHZoI/Be-Incredible%2FPhenomenality?node-id=536%3A347)
 
 **Avocado Sales Dashboard**
 - [Codebase](https://github.com/ZachGrande/info474-react-parcel-template)
@@ -38,10 +39,7 @@
 
 **Python Projects**
 - [Image recognition](https://github.com/ZachGrande/image-recognition/blob/main/ps07.ipynb)
-  - Technologies used: Python, Pandas, Numpy, Tensorflow, Scikit-Learn
-
-**Phenomenality**
-- [Figma](https://www.figma.com/file/hnuDOYLXH1Q5aR26tqHZoI/Be-Incredible%2FPhenomenality?node-id=536%3A347)
+  - Python, Pandas, Numpy, Tensorflow, Scikit-Learn
 
 **Jukebox**
 - [Figma](https://www.figma.com/file/ZiP3FYiCJZdlItcb5AZk5O/360-Jukebox)
