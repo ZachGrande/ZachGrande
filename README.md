@@ -36,10 +36,16 @@ In June 2022, I led my Capstone team as we built a solution for young profession
 - [Figma Wireframes](https://www.figma.com/file/hnuDOYLXH1Q5aR26tqHZoI/Be-Incredible%2FPhenomenality?node-id=536%3A347)
 
 **Avocado Sales Dashboard**
+
+I completed a Data Visualization course at the University of Washington foucsed on visualizing unique data sets with JavaScript and D3. As part of my final project, I worked with a team to import and clean an avocado sales dataset to discover significant trends from 2015-2020. In another assignment, I extracted a dataset of Disney films to find which genres are most popular (highest grossing) and display how their most popular genre's income changed over time.
+
 - [Codebase](https://github.com/ZachGrande/info474-react-parcel-template)
 - [Demo site](https://zachgrande.github.io/info474-react-parcel-template/)
 
 **Be Incredible**
+
+An early concept website for my UW Capstone project. I led our team to create quizzes and a results dashboard with SurveyJS and CanvasJS. We learned to translate data across APIs and function as a team with stable software releases.
+
 - [Codebase](https://github.com/UW-INFO442-AU21/group4-in4matix)
 - [Demo site](https://uw-info442-au21.github.io/group4-in4matix/)
 
