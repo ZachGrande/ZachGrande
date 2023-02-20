@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there! 👋 I'm Zach Grande
 
-**About me**
+I'm a Full Stack Developer who is passionate about creating creating consumer-centric products.
+
+**Get to know me**
 - 😁 Pronouns: he/him
+- 🖥️ Full Stack Developer at [Thrivelution](https://thrivelution.com/)
+- 🎓 Graduate from the University of Washington
 - ☕ Skilled in Java & object-oriented programming
-- 🎹 Incorporated music into several projects at the iSchool
+- 🎹 Incorporated music into several undergraduate projects at UW
 - 👾 Interested in games!
 - 📫 Contact me: [linkedin.com/in/zach-grande/](https://www.linkedin.com/in/zach-grande/)
 
@@ -12,15 +16,20 @@
 - Major: Informatics - Human-Computer Interaction & Data Science
 - Sep 2018 - Jun 2022
 
-**Goal:** to work in an engineering or technical product role within a consumer-centric organization.
-
 ### Some projects I've worked on
 
-**I am building a website for my band, Hockey Teeth**
+**Hockey Teeth**
+
+I am in a band from Bellingham, WA called Hockey Teeth. I recently built a website to serve as a home for fans, as well as an electronic portfolio for venues and labels.
+
 - [Hockey Teeth Official Site](https://www.hockeyteethband.com/home)
   - React, AWS Amplify, Material UI
+- [Codebase](https://github.com/ZachGrande/hockey-teeth)
 
 **UW Capstone**
+
+In June 2022, I led my Capstone team as we built a solution for young professionals struggling with Imposter Phenomenon. Our solution, Phenomenality, allows our audience to take quizzes and record accomplishments in the workplace. Authentication and data storage are deployed with Firebase. This project builds upon [Be Incredible](https://github.com/UW-INFO442-AU21/group4-in4matix), an early MVP developed with the same team.
+
 - [Phenomenality Web App](https://phenomenality-bdf65.web.app/)
   - React, Firebase, SurveyJS, CanvasJS
 - [Phenomenality UW Page](https://ischool.uw.edu/capstone/projects/2022/phenomenality-helping-gender-minorities-mitigate-imposter-phenomenon)
