@@ -4,7 +4,7 @@ I'm a Full Stack Developer who is passionate about creating creating consumer-ce
 
 **Get to know me**
 - 😁 Pronouns: he/him
-- 🖥️ Full Stack Developer at [Thrivelution](https://thrivelution.com/)
+- 🖥️ Software Development Engineer at [Symbl.ai](https://symbl.ai/)
 - 🎓 Graduate from the University of Washington
 - ☕ Skilled in Java & object-oriented programming
 - 🎹 Incorporated music into several undergraduate projects at UW
