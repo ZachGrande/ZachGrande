@@ -23,7 +23,8 @@ I'm a Full Stack Developer who is passionate about creating creating consumer-ce
 I am in a band from Bellingham, WA called Hockey Teeth. I recently built a website to serve as a home for our audience, as well as an electronic portfolio for venues and labels.
 
 - [Hockey Teeth Official Site](https://www.hockeyteethband.com/home)
-  - React, AWS Amplify, Material UI
+  - **UI:** React, Auth0, AWS (Amplify, S3, Route 53), Material UI
+  - **API:** Java, Spring Boot, AWS (EC2, ECR, DynamoDB), Docker
 - [Codebase](https://github.com/ZachGrande/hockey-teeth)
 
 **UW Capstone**
