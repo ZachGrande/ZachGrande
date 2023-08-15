@@ -38,7 +38,7 @@ In June 2022, I led my Capstone team as we built a solution for young profession
 
 **Avocado Sales Dashboard**
 
-I completed a Data Visualization course at the University of Washington foucsed on visualizing unique data sets with JavaScript and D3. As part of my final project, I worked with a team to import and clean an avocado sales dataset to discover significant trends from 2015-2020. In another assignment, I extracted a dataset of Disney films to find which genres are most popular (highest grossing) and display how their most popular genre's income changed over time.
+I completed a Data Visualization course at the University of Washington focused on visualizing unique data sets with JavaScript and D3. As part of my final project, I worked with a team to import and clean an avocado sales dataset to discover significant trends from 2015-2020. In another assignment, I extracted a dataset of Disney films to find which genres are most popular (highest grossing) and display how their most popular genre's income changed over time.
 
 - [Codebase](https://github.com/ZachGrande/info474-react-parcel-template)
 - [Demo site](https://zachgrande.github.io/info474-react-parcel-template/)
