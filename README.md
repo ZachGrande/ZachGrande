@@ -31,6 +31,7 @@ I am in a band from Bellingham, WA called Hockey Teeth. I recently built a websi
 
 In June 2022, I led my Capstone team as we built a solution for young professionals struggling with Imposter Phenomenon. Our solution, Phenomenality, allows our audience to take quizzes and record accomplishments in the workplace. Authentication and data storage are deployed with Firebase. This project builds upon [Be Incredible](https://github.com/UW-INFO442-AU21/group4-in4matix), an early MVP developed with the same team.
 
+- [Codebase](https://github.com/ZachGrande/Phenomenality)
 - [Phenomenality Web App](https://phenomenality-bdf65.web.app/)
   - React, Firebase, SurveyJS, CanvasJS
 - [Phenomenality UW Page](https://ischool.uw.edu/capstone/projects/2022/phenomenality-helping-gender-minorities-mitigate-imposter-phenomenon)
